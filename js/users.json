@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Mark",
+        "role": "Director",
+        "active": "Active",
+        "settings": [
+            "Choose action...",
+            "Delete",
+            "Edit",
+            "Deactivate"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Jacob",
+        "role": "Accounting",
+        "active": "Vacation",
+        "settings": [
+            "Choose action...",
+            "Delete",
+            "Edit",
+            "Deactivate"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Larry",
+        "role": "Finance",
+        "active": "Active",
+        "settings": [
+            "Choose action...",
+            "Delete",
+            "Edit",
+            "Deactivate"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Paul",
+        "role": "Marketing",
+        "active": "Vacation",
+        "settings": [
+            "Choose action...",
+            "Delete",
+            "Edit",
+            "Deactivate"
+        ]
+    }
+]
